@@ -52,7 +52,7 @@ nav a {
     text-align: right;
     background-color: white;
     gap: 20px;
-    padding-right: 20px;
+    padding: 40px;
 }
 
 span {
@@ -60,8 +60,8 @@ span {
     width: 12%;
     height: 4px;
     background: #ee2211;
-    margin-left: 94%;
-    margin-top: 6%;
+    top: 30px;
+    right: -30px;
 }
 
 .esq_sup p {
@@ -91,7 +91,7 @@ span {
 .esq_inf h1{
     font-size: 64px;
     text-align: right;
-    padding-right: 40px;
+    padding: 40px;
     color: #c6c6c6;
 }
 
