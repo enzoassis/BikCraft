@@ -115,13 +115,7 @@ grid-column-start: 2;
 }
 
 .rodape {
-    display: flex;
+    text-align: center;
     background: #fff;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.rodape p {
-    font-size: 20px;
-    margin: auto;
+    padding: 40px;
 }
